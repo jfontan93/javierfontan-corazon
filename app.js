@@ -18,7 +18,10 @@ Pistas:
 
 */
 
+/*
+ Ejecutar el comando <' node app.js '> para ver el resultado del codigo
 
+*/
 
 
 const asciiHeart = [
